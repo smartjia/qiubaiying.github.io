@@ -76,7 +76,7 @@ ba_track_id: 659813f1c6818d2f0f57a9e92c2796a7
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
 ga_track_id: 'UA-106799869-1'           # Format: UA-xxxxxx-xx
-ga_domain: auto
+ga_domain: smartjia.top
 
 
 
@@ -101,7 +101,7 @@ friends: [
         href: "http://www.jianshu.com/u/4ed273c3a65d"
     },
     {
-        title: "smartjia",
-        href: "http://smartjia.top"
+        title: "高中时代·五四青年",
+        href: "http://www.lytjb.com/Article/ShowArticle.asp?ArticleID=424&Page=6"
     }
 ]
